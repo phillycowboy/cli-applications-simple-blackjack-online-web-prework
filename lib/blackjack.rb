@@ -48,11 +48,11 @@ def hit?(number)
   prompt_user
   get_user_input
   # binding.pry
-  # if prompt_user=="h"
-  #   deal_card
+  if user_input=="h"
+    card_total+=deal_card
     # binding.pry
-    # if prompt_user=="s"
-    #   !deal_card
+  elsif user_input=="s"
+    card_total
     # binding.pry
 
 
