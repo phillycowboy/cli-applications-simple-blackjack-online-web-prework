@@ -55,7 +55,7 @@ def hit?(number)
     #   !deal_card
     # binding.pry
 
-    end
+
     end
 end
 
