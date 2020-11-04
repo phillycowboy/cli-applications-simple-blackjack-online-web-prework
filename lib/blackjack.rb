@@ -57,7 +57,7 @@ def hit?(number)
   else
     invalid_command
     prompt_user
-    hit?
+    hit?(number)
   end
 
 end
