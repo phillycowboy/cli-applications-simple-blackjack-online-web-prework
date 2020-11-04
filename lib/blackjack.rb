@@ -45,12 +45,12 @@ def hit?(number)
   # code hit? here
   prompt_user
   get_user_input
-  if prompt_user=="h"
-    deal_card
-    if prompt_user=='n'
-      !deal_card
-    end
-    end
+  # if prompt_user=="h"
+  #   deal_card
+  #   if prompt_user=='n'
+  #     !deal_card
+  #   end
+  #   end
 end
 
 def invalid_command
