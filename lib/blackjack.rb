@@ -47,10 +47,10 @@ def hit?(number)
   # code hit? here
   prompt_user
   user_input=get_user_input
-  # binding.pry
+  
   if user_input=="h"
      deal_card
-    # binding.pry
+  
   elsif user_input=="s"
      number
 
