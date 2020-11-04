@@ -55,7 +55,7 @@ def hit?(number)
      number
     # binding.pry
 
-    # end
+    end
   end
 end
 
