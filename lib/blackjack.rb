@@ -54,8 +54,7 @@ def hit?(number)
   elsif user_input=="s"
      sum
     # binding.pry
-  else
-    invalid_command
+
     # end
   end
 end
