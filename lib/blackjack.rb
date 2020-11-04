@@ -51,10 +51,9 @@ def hit?(number)
   if user_input == "h"
      deal_card+number
 
-  elsif condition
-     user_input == "s"
+  if user_input == "s"
      number
-   elsif
+   else
      invalid_command
     end
   end
