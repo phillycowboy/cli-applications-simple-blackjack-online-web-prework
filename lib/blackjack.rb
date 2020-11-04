@@ -53,7 +53,8 @@ def hit?(number)
 
   elsif user_input == "s"
      number
-
+  else
+    invalid_command
 
   end
 end
