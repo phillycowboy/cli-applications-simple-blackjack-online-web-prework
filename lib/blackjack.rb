@@ -51,7 +51,7 @@ def hit?(number)
   if user_input=="h"
      deal_card++
     # binding.pry
-  elsif user_input=="s"
+  if user_input=="s"
      number
     # binding.pry
 
