@@ -52,7 +52,7 @@ def hit?(number)
     sum += deal_card
     # binding.pry
   elsif user_input=="s"
-     sum
+     number
     # binding.pry
 
     # end
