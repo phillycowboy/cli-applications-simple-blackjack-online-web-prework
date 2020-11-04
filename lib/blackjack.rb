@@ -49,7 +49,7 @@ def hit?(number)
   user_input=get_user_input
 
   if user_input == "h"
-     deal_card
+     deal_card+=sum
 
   elsif user_input == "s"
      number
