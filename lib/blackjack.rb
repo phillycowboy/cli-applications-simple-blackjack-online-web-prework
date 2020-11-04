@@ -54,6 +54,7 @@ def hit?(number)
     if prompt_user=="s"
       !deal_card
     # binding.pry
+      get_user_input
     end
     end
 end
