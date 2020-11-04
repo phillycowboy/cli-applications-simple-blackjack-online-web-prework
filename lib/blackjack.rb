@@ -73,4 +73,9 @@ end
 
 def runner
   # code runner here
+  welcome
+  initial_round
+  hit?(number)
+  display_card_total(total)
+  end_game
 end
