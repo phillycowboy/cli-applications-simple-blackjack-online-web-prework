@@ -55,6 +55,7 @@ def hit?(number)
      number
   if user_input==!"h"||!"s"
     invalid_command
+    end
   end
 end
 
