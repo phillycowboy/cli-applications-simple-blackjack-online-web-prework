@@ -56,7 +56,7 @@ def hit?(number)
     # binding.pry
 
 
-    end
+    # end
 end
 
 def invalid_command
