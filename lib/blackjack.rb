@@ -53,9 +53,7 @@ def hit?(number)
     # binding.pry
   elsif user_input=="s"
      number
-    # binding.pry
-
-    # end
+    
   end
 end
 
