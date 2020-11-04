@@ -12,7 +12,7 @@ end
 def display_card_total(total)
   # code #display_card_total here
   total = rand
-  puts "Your cards add up to 8"
+  puts "Your cards add up to #{rand}"
 
 end
 
