@@ -49,10 +49,10 @@ def hit?(number)
   user_input=get_user_input
   # binding.pry
   if user_input=="h"
-    card_total+=deal_card
+    display_card_total+=deal_card
     # binding.pry
   elsif user_input=="s"
-    card_total
+    display_card_total
     # binding.pry
 
 
