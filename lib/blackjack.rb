@@ -54,7 +54,7 @@ def hit?(number)
   if user_input == "s"
      number
 
-    
+
   end
 end
 
