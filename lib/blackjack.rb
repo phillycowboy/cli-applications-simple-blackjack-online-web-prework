@@ -5,7 +5,7 @@ end
 
 def deal_card
   # code #deal_card here
-  rand(max)11
+  rand(1...11)
 
 end
 
