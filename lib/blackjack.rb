@@ -53,7 +53,7 @@ def hit?(number)
     binding.pry
     if prompt_user=="s"
       !deal_card
-    binding.pry
+    # binding.pry
     end
     end
 end
