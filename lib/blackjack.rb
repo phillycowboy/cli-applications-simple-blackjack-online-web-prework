@@ -53,7 +53,7 @@ def hit?(number)
   #   if prompt_user=='n'
   #     !deal_card
   #   end
-  #   end
+    end
 end
 
 def invalid_command
